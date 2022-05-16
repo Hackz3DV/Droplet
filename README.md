@@ -1,3 +1,5 @@
+
+
 // ==UserScript==
 // @name         Venge.io Hacks 1.0.0 (Infinite Ammo, Infinite Jump, Autokill.) Anticheat Disable
 // @version      1.2
