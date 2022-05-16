@@ -1,6 +1,6 @@
 # Droplet IOS
 
-The best third-party App Store to install exclusive tweaks and apps without any jailbreak. Droplet works on any iOS device, including iPhone, iPad, and iPod. Click the install button below and get started!
+The best third-party App Store to install exclusive tweaks and apps without any jailbreak. Droplet works on any iOS device, including iPhone, iPad, and iPod. 
 
 Ad-Free
 
